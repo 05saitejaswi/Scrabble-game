@@ -2,6 +2,7 @@
 Scrabble game using data structures in C
 -Works best on Windows.
 
+-source.c has the main C program.
 -word2.txt has all valid English Scrabble game words.
 -letters.csv has all the letters(ASCII values) along with their number of occurences.
 
